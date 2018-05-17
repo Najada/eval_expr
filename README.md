@@ -1,4 +1,4 @@
-# eval_expr
+eval_expr
 
 The following five operators are supported:
 • ’+’ for addition,
